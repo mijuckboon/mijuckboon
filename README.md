@@ -31,11 +31,11 @@ Ministry of Education, South Korea
 <div>
   <img src="https://img.shields.io/badge/Java-F05032?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MyBatis-B31B1B?style=flat&logo=mybatis&logoColor=white" />
   <!--
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
   -->
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-B31B1B?style=flat&logo=mybatis&logoColor=white" />
   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat&logo=JUnit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
