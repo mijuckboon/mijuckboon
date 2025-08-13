@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I'm a mathematician preparing to become a developer.
-- I care about the readability and maintainability of the code.
+- I care about the readability and maintainability of code.
 
 ## 🎓 Education
 - 2025.01 ~ 2025.07 | Hanwha Systems BEYOND SW CAMP 15th, Playdata Lifelong Education Center
