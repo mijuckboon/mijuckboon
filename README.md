@@ -31,7 +31,10 @@ Ministry of Education, South Korea
 <div>
   <img src="https://img.shields.io/badge/Java-F05032?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-B31B1B?style=flat&logo=mybatis&logoColor=white" />
+  <!--
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
+  -->
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat&logo=JUnit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -57,15 +60,14 @@ Ministry of Education, South Korea
 
 ### Tools
 <div>
+  <img src="https://img.shields.io/badge/Intellij%20IDEA-2C2255?style=flat&logo=Intellij%20IDEA&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white" />
   <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intellij%20IDEA-2C2255?style=flat&logo=Intellij%20IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Pycharm-21D789?style=flat&logo=Pycharm&logoColor=white" />
 </div>
 
