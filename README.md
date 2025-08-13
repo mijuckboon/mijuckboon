@@ -17,8 +17,8 @@ Ministry of Education, South Korea
 
 ## 🏅 Awards
 -  2025.07 | The best project of Hanwha Systems BEYOND SW CAMP 15th by Playdata Lifelong Education Center
--  2016.12 | Gold Prize, the 35th National College Math Contest by Korean Mathematical Society
--  2015.12 | Bronze Prize, the 34th National College Math Contest by Korean Mathematical Society
+-  2016.12 | Gold Prize, the 35th Mathematics Competition for University Students by Korean Mathematical Society
+-  2015.12 | Bronze Prize, the 34th Mathematics Competition for University Students by Korean Mathematical Society
 
 ## 🛠️ Tools
 <!--
