@@ -1,34 +1,43 @@
 ## Hi there 👋
-
-<!--
-**mijuckboon/mijuckboon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- I'm a mathematician preparing to become a developer.
+- I care about the readability and maintainability of the code.
 
 ## 🎓 Education
--  2023.03 ~ 2023.09 | 코리아IT아카데미 백엔드 양성과정 (주말반) 
--  2020.03 ~ 2025.02 | Kyunghee University, Mathematics
--  2025.01 ~ 2025.07 | 한화시스템 BEYOND SW CAMP 15기
+- 2025.01 ~ 2025.07 | Hanwha Systems BEYOND SW CAMP 15th, Playdata Lifelong Education Center
+- 2017.02 ~ 2022.08 | M.S. in Mathematical Sciences, Korea Advanced Institute of Science and Technology
+- 2013.03 ~ 2017.02 | B.S. in Mathematics Education, Sungkyunkwan University
+- 2011.03 ~ 2013.02 | Hansung Science Highschool 20th
 
-<br>
+## 🪪 Certifications
+- 2024.09 | Engineer Information Processing, Human Resources Development Service of Korea <!-- HRDK -->
+- 2024.06 | SQL Developer, Korea Data Agency <!-- KDATA -->
+- 2017.02 | Teacher certificate, the secondary school teacher (Grade II) of mathematics,
+Ministry of Education, South Korea
+- 2015.08 | Word processor certificate, Korea Chamber of Commerce and Industry <!-- KCCI -->
 
-## 🖥️ Stack
+## 🏅 Awards
+-  2025.07 | The best project of Hanwha Systems BEYOND SW CAMP 15th by Playdata Lifelong Education Center
+-  2016.12 | Gold Prize, the 35th National College Math Contest by Korean Mathematical Society
+-  2015.12 | Bronze Prize, the 34th National College Math Contest by Korean Mathematical Society
+
+## 🛠️ Tools
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyujinjeong&layout=compact" />
 </div>
+-->
 
-#### Backend
+### Backend
 <div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F05032?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat&logo=JUnit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
 
-#### Frontend
+### Frontend
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -36,13 +45,31 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 </div>
 
-#### Database
+### Database
 <div>
+  <img src="https://img.shields.io/badge/SQL-4F5B93?style=flat&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+  <!--
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  -->
 </div>
 
+### Tools
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intellij%20IDEA-2C2255?style=flat&logo=Intellij%20IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pycharm-21D789?style=flat&logo=Pycharm&logoColor=white" />
+</div>
+
+<!--
 #### DevOps
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -51,6 +78,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white" />
 </div>
+-->
+
+<!--
+**mijuckboon/mijuckboon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+<br>
+
+
 
 <br>
 
