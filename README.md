@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 - I'm a mathematician preparing to become a developer.
 - I care about the readability and maintainability of code.
 
