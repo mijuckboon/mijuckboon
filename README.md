@@ -1,4 +1,4 @@
-# Make the world a better place through development!
+# Make the world a better place through coding!
   <section align="right">
   - Jinwoong Kwak -
   </section>
