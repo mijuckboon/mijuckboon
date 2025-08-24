@@ -1,3 +1,8 @@
+# Make the world a better place through development!
+  <section align="right">
+  - Jinwoong Kwak -
+  </section>
+
 ## 👋 Hi there
 - I'm a mathematician preparing to become a developer.
 - I care about the readability and maintainability of code.
@@ -20,10 +25,10 @@ Ministry of Education, South Korea
 -  2016.12 | Gold Prize, the 35th Mathematics Competition for University Students by Korean Mathematical Society
 -  2015.12 | Bronze Prize, the 34th Mathematics Competition for University Students by Korean Mathematical Society
 
-## 🛠️ Tools
+## 🛠️ Skills
 <!--
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyujinjeong&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijuckboon&layout=compact" />
 </div>
 -->
 
@@ -95,10 +100,6 @@ Here are some ideas to get you started:
 <br>
 
 ## 👨🏻‍💻 Project Summary
-- **2023.08 ~ 2023.09 ☕**  [OSCA](https://github.com/devyujinjeong/spring-osca)
-    - 스터디 매칭 및 커뮤니티 기반 학습 습관 형성 플랫폼
-    - 원하는 조건의 카페에서 스터디를 찾고, 참여하거나 모집 가능
-    - Spring Boot 기반의 카페 즐겨찾기 기능 및 UI 설계, 프로젝트 진행 총괄(팀장)
 
 - **2025.03 ~ 2025.05 📕** Book적Book적 [BE](https://github.com/devyujinjeong/jamjam-bookjeokbookjeok-BE), [FE](https://github.com/devyujinjeong/jamjam-bookjeokbookjeok-FE)
   - 책 검색, 구매, 리뷰, 커뮤니티를 통합한 독서 플랫폼
@@ -122,10 +123,10 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=devyujinjeong&show_icons=true&theme=vue" width="400px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=mijuckboon&show_icons=true&theme=vue" width="400px"/>
     </td>
     <td align="center">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls89173" width="400px"/>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mijuckboon" width="400px"/>
     </td>
   </tr>
 </table>
