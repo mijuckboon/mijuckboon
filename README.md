@@ -43,12 +43,13 @@ Ministry of Education, South Korea
   <img src="https://img.shields.io/badge/MyBatis-B31B1B?style=flat&logo=mybatis&logoColor=white" />
   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat&logo=JUnit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
 </div>
 
 ### Frontend
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 </div>
@@ -65,7 +66,7 @@ Ministry of Education, South Korea
 
 ### Tools
 <div>
-  <img src="https://img.shields.io/badge/Intellij%20IDEA-2C2255?style=flat&logo=Intellij%20IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
