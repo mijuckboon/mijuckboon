@@ -15,7 +15,9 @@
 
 ## 🪪 Certifications
 - 2024.09 | Engineer Information Processing, Human Resources Development Service of Korea <!-- HRDK -->
-- 2024.06 | SQL Developer, Korea Data Agency <!-- KDATA -->
+- 2024.06 | SQL Developer(SQLD), Korea Data Agency <!-- KDATA -->
+- 2026.07 | Bigdata Analysis Engineer, Korea Data Agency <!-- KDATA -->
+- 2026.03 | Advanced Data Analytics Semi-Professional(ADsP) , Korea Data Agency <!-- KDATA -->
 - 2017.02 | Teacher certificate, the secondary school teacher (Grade II) of mathematics,
 Ministry of Education, South Korea
 - 2015.08 | Word processor certificate, Korea Chamber of Commerce and Industry <!-- KCCI -->
@@ -48,10 +50,10 @@ Ministry of Education, South Korea
 
 ### Frontend
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS&logoColor=white" />
 </div>
 
 ### Database
@@ -72,9 +74,10 @@ Ministry of Education, South Korea
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Pycharm-21D789?style=flat&logo=Pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </div>
 
 <!--
